@@ -13,7 +13,7 @@ Latest Version Android Studio
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as HelloWorld and click Next. 
+Step 2: Then type the Application name as lifecyclemethod and click Next. 
 
 Step 3: Then select the Minimum SDK as shown below and click Next.
 
@@ -28,9 +28,9 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-Program to print the text “Hello World”.
-Developed by: Don Bosco Blaise A
-Registeration Number : 212221040045
+Program to print the text “lifecyclemethod”.
+Developed by: KARTHICK K
+Registeration Number : 212222040070
 */
 ```
 ## ACTIVITY_MAIN.XML:
@@ -107,14 +107,15 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OUTPUT
-![Screenshot (203)](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/98db8968-3eb1-42ce-b701-51391f00513e)
-![Screenshot (204)](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/dd0fe4c9-1559-4db7-9923-b965bac2e8d8)
-![Op1](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/7fb45310-b6f0-4762-aa06-2921a9217e72)
-![Op2](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/d5e0f809-22e5-40c6-b446-18a24810d1f3)
-![Op3](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/1b5eca00-017e-4d7a-b6ef-39c4a9bd6621)
-![Op4](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/c0094a15-7aa1-4b4f-bda6-aa02d55e6823)
-![Op5](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/85cb8a10-5fde-4b91-ab06-385ee004a987)
+![Screenshot 2024-03-09 113050](https://github.com/karthick960/lifecyclemethods/assets/121215938/6fab4231-0211-455d-8fb6-4c80381ae1cd)
+![Screenshot 2024-03-09 113002](https://github.com/karthick960/lifecyclemethods/assets/121215938/42536d13-156f-4fb2-be97-ec01f4f5585b)
+![WhatsApp Image 2024-03-09 at 11 25 35_68d713c2](https://github.com/karthick960/lifecyclemethods/assets/121215938/fe8a3530-5461-4673-877c-364a76861727)
 
+![WhatsApp Image 2024-03-09 at 11 25 47_326c3a31](https://github.com/karthick960/lifecyclemethods/assets/121215938/9162230a-9201-46a1-8f68-94f9c2238e0d)
+
+![WhatsApp Image 2024-03-09 at 11 25 59_73743090](https://github.com/karthick960/lifecyclemethods/assets/121215938/af4cefe1-88cf-467e-9b0e-b1e108f8ad77)
+
+![WhatsApp Image 2024-03-09 at 11 26 12_27c66e0d](https://github.com/karthick960/lifecyclemethods/assets/121215938/f3183348-dc2a-4f9c-b075-460c16620952)
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
